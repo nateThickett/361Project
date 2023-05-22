@@ -1,15 +1,23 @@
 {
   "name": "361",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
-    "start" : "electron ."
+    "start": "electron ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^24.3.1"
-  }
+    "electron": "11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nateThickett/361Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nateThickett/361Project/issues"
+  },
+  "homepage": "https://github.com/nateThickett/361Project#readme",
+  "description": ""
 }
